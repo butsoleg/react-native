@@ -1293,9 +1293,9 @@ boom@2.x.x:
   dependencies:
     hoek "2.x.x"
 
-bootstrap@^3.3.7:
-  version "3.3.7"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.3.7.tgz#5a389394549f23330875a3b150656574f8a9eb71"
+bootstrap@^3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.1.tgz#c3a347d419e289ad11f4033e3c4132b87c081d72"
 
 bowser@^1.0.0, bowser@^1.6.0:
   version "1.6.0"
@@ -2405,7 +2405,7 @@ depd@^1.1.0, depd@~1.1.0:
 
 deprecate@1.0.0:
   version "1.0.0"
-  resolved "http://registry.npmjs.org/deprecate/-/deprecate-1.0.0.tgz#661490ed2428916a6c8883d8834e5646f4e4a4a8"
+  resolved "https://registry.npmjs.org/deprecate/-/deprecate-1.0.0.tgz#661490ed2428916a6c8883d8834e5646f4e4a4a8"
 
 des.js@^1.0.0:
   version "1.0.0"
